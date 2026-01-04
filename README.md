@@ -10,7 +10,7 @@
 - 💻 Java Backend Developer
 - 🧠 Strong in Data Structures & Problem Solving
 - 🔐 Backend development with Spring Boot
-- 🚀 Actively preparing for product-based companies
+- 🗄️ Experience with MySQL
 
 ---
 
@@ -30,7 +30,14 @@
 
 - Spring Boot  
 - REST APIs  
-- Microservices (learning / basic understanding)
+- Microservices (learning)
+
+---
+
+## 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
 ---
 
@@ -48,10 +55,10 @@
 - Java (OOPs, Collections)
 - Data Structures & Algorithms
 - Backend API Development
+- MySQL & Database fundamentals
+- Docker basics (containerizing applications)
 - Problem Solving
-- Basic Microservices concepts
-- Database fundamentals (MySQL)
 
 ---
 
-⚡ *Focused on becoming a strong backend engineer step by step.*
+⚡ *Focused on mastering backend engineering step by step.*
