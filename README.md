@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
 ---
@@ -52,6 +52,25 @@
 - MySQL & Database fundamentals
 - Docker basics (containerizing applications)
 - Problem Solving
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Babidomacmillan21Cs009 &show_icons=true&hide_title=true&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+<p>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/babido-macmillan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:babidomacmillan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
