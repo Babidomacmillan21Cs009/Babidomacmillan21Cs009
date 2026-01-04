@@ -64,7 +64,7 @@
 
 ## 🤝 Let’s Connect
 <p>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/babido-macmillan">
+  <a href="https://www.linkedin.com/in/babido-macmillan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:babidomacmillan@gmail.com">
