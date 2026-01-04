@@ -1,86 +1,77 @@
-<h1 align="center">Hi there 👋, I'm Babido Macmillan J</h1>
-<h3 align="center">Java Backend Developer | DSA Learner</h3>
+<h2 align="center">Hi 👋, I'm Babido Macmillan J</h2>
+<p align="center">
+  Java Backend Developer • DSA Learner • API Builder
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Babidomacmillan21Cs009 &label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Babidomacmillan21Cs009&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 - 🎓 BE Computer Science (2025)
 - 💻 Java Backend Developer
-- 🧠 Strong in **DSA & Problem Solving**
-- 🔐 Experience with **Spring Boot, Spring Security, JWT**
-- 📊 Comfortable with **MySQL**
-- 🎯 Goal: Product-based backend engineer
+- 🧠 Strong in Data Structures & Problem Solving
+- 🔐 Spring Boot • Spring Security • JWT
+- 🗄️ MySQL Database
+- 🚀 Actively preparing for product-based companies
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+## 👨‍💻 I Code In
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
-
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45"/>
-</p>
-
-### 🧠 Core Concepts
-- Data Structures & Algorithms  
-- OOPs  
-- REST API Design  
-- Authentication & Authorization  
 
 ---
 
-## 📂 Projects
+## ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+</p>
 
+---
+
+## 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+---
+
+## 📂 Featured Projects
 ### 💰 Smart Personal Finance Manager API
-- Spring Boot REST API
-- JWT Authentication
+- REST API using Spring Boot
+- JWT Authentication & Authorization
 - MySQL Database
-- Income & Expense tracking
+- Expense & Income tracking
 
-### ✅ Task Management / Team Collaboration API *(Upcoming)*
+### ✅ Task Management / Collaboration API *(Planned)*
 - Role-based access
-- Tasks & deadlines
-- Backend-focused design
+- Task & deadline management
+- Backend-focused architecture
 
 ---
 
-## 📊 DSA Progress
-- ✅ Arrays
-- ✅ Linked List
-- ✅ Stack & Queue
-- ✅ Sliding Window
-- ✅ Two Pointers
-- 🧩 Solved **20+ problems in Java**
-
----
-
-## 🧰 Tools I Use
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+## 🧠 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/babidomacmillan?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Babidomacmillan21Cs009 &show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babidomacmillan21Cs009 &theme=tokyonight"/>
 </p>
 
 ---
@@ -88,13 +79,13 @@
 ## 🤝 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/babido-macmillan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:babidomacmillan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-⚡ *Fun fact:* I enjoy writing clean backend code more than fancy UI 😄
+⚡ *Fun fact:* Clean backend logic > fancy UI 😄
