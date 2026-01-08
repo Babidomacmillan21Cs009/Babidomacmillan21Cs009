@@ -1,78 +1,18 @@
-<h2 align="center">Hi 👋, I'm Babido Macmillan J</h2>
-<p align="center">
-  Java Backend Developer • DSA Learner
-</p>
+# 💫 About Me:
+👋 Hi, I'm Babido Macmillan<br><br>💻 Java Backend Developer<br><br>⚙️ Experienced with Spring Boot, REST APIs, MySQL<br><br>🧠 Learning DSA in Java to improve problem-solving skills<br><br>🐳 Exploring Microservices & Docker<br><br>📚 Always improving backend architecture and coding practices<br><br>🚀 Interested in building real-world backend projects
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/babido-macmillan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:babidomacmillan@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Babidomacmillan21Cs009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Babidomacmillan21Cs009&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Babidomacmillan21Cs009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Babidomacmillan21Cs009&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-- 🎓 BE Computer Science (2025)
-- 💻 Java Backend Developer
-- 🧠 Strong in Data Structures & Problem Solving
-- 🔐 Backend development with Spring Boot
-- 🗄️ Experience with MySQL
-
----
-
-## 🧠 Languages I Know
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
----
-
-## ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-</p>
-
-- Spring Boot  
-- REST APIs  
-- Microservices (learning)
-
----
-
-## 🧰 Tools & Technologies
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-</p>
-
----
-
-## 🧩 Core Skills
-- Java (OOPs, Collections)
-- Data Structures & Algorithms
-- Backend API Development
-- MySQL & Database fundamentals
-- Docker basics (containerizing applications)
-- Problem Solving
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Babidomacmillan21cs009&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&cache_seconds=1800" />
-</p>
-</p>
-
----
-
-## 🤝 Let’s Connect
-<p>
-  <a href="https://www.linkedin.com/in/babido-macmillan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:babidomacmillan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⚡ *Focused on mastering backend engineering step by step.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
